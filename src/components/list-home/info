@@ -1,0 +1,22 @@
+get this data
+https://dummyjson.com/products
+
+Display Products
+
+Fetch and display products from the API on your dashboard. Each product card should show the product's image, name, price, and category.
+API Endpoint: https://dummyjson.com/products
+Search Functionality
+
+Implement a search bar to allow users to search for products by name.
+You should handle this on the frontend, filtering the results already fetched from the API.
+Filter by Category
+
+Provide a dropdown menu or a set of buttons to filter products by their category.
+Like the search functionality, handle this filtering on the frontend.
+Product Detail Page
+
+Clicking on a product card should navigate to a detailed view of the product, displaying more information such as the description, brand, and any other relevant data.
+API Endpoint for single product: https://dummyjson.com/products/{id}
+Responsive Design
+
+Ensure that your dashboard is responsive and provides a good user experience on both desktops and mobile devices.
